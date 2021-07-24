@@ -1,0 +1,2 @@
+We are creating a Hugo website for our company.
+
